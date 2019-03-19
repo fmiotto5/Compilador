@@ -9,7 +9,7 @@ Algumas funcionalidades ainda não implementadas:
 - chamadas de funções;
 - referência a vetores;
 - ponteiros;
-- estruturas;
+- structs;
 - geração de código para o comando switch-case.
 
 ===================================================
@@ -24,5 +24,5 @@ Some features not yet working:
 - function calls;
 - array references;
 - pointers;
-- strcutures;
-- generation of code switch-case command.
+- structs;
+- generation of switch-case code.
