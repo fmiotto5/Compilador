@@ -16,7 +16,7 @@ Algumas funcionalidades ainda não implementadas:
 
 C language compiler
 
-In order to use the compiler, put the path of source code in function fopen() in line 2564 (e. g. "C:/main.c").
+In order to use the compiler, put the path of source code in fopen() function in line 2564 (e. g. "C:/main.c").
 The result printed in terminal is the generation of intermediate code of C language (three-address code)
 
 Some features not yet working:
